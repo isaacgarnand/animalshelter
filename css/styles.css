@@ -38,6 +38,19 @@
   color: white
 }
 
-.italics {
+.italic {
   font-style: italic;
+}
+
+.column4 p a {
+  background-color: yellow;
+  color: rgb(2, 2, 68);
+}
+
+.row {
+  height: 600px;
+}
+
+.row2 ul {
+  font-style: italic
 }
