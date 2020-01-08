@@ -1,0 +1,23 @@
+.column1 {
+  float: left;
+  width: 24%;
+  background-color: green;
+}
+
+.column2 {
+  float: left;
+  width: 24%;
+  background-color: yellow;
+}
+
+.column3 {
+  float: left;
+  width: 24%;
+  background-color: blue;
+}
+
+.column4 {
+  float: left;
+  width: 24%;
+  background-color: red;
+}
