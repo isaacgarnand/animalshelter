@@ -4,10 +4,18 @@
   background-color: green;
 }
 
+.column1 p {
+  font-weight: 800;
+}
+
 .column2 {
   float: left;
   width: 24%;
   background-color: yellow;
+}
+
+.column2 p {
+  font-weight: 400;
 }
 
 .column3 {
@@ -16,8 +24,20 @@
   background-color: blue;
 }
 
+.column3 p {
+  color: rgb(190, 190, 190)
+}
+
 .column4 {
   float: left;
   width: 24%;
   background-color: red;
+}
+
+.column4 p {
+  color: white
+}
+
+.italics {
+  font-style: italic;
 }
