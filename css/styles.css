@@ -1,16 +1,26 @@
-.column1 {
+body{
+  margin: 10%;
+}
+
+
+.column1, .column2, .column3, .column4{
   float: left;
-  width: 24%;
+  width: 20%;
+  margin: 15px;
+  border: 10px black;
+}
+
+
+.column1 {
   background-color: green;
 }
 
 .column1 p {
   font-weight: 800;
+  padding: 500;
 }
 
 .column2 {
-  float: left;
-  width: 24%;
   background-color: yellow;
 }
 
@@ -19,8 +29,6 @@
 }
 
 .column3 {
-  float: left;
-  width: 24%;
   background-color: blue;
 }
 
@@ -29,8 +37,6 @@
 }
 
 .column4 {
-  float: left;
-  width: 24%;
   background-color: red;
 }
 
